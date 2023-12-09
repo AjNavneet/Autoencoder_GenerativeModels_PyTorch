@@ -1,4 +1,4 @@
-# Generative Model using Autoencoders in PyTorch
+# Generative Model using Autoencoders - PyTorch
 
 ## Overview
 
@@ -38,21 +38,6 @@ In this project, we introduce Generative Models, use the PyTorch framework to bu
 3. `train.py`: Contains the code for model training.
 4. `run.py`: The main file in which all functions are called.
 5. `requirements.txt`: Lists all the required libraries with respective versions. Install them using `pip install -r requirements.txt`. Note: Please use CUDA versions of torch if CUDA is available.
-
----
-
-## Key Concepts Explored
-
-1. Discriminative Models
-2. Generative Model
-3. Autoencoders
-4. Encoder
-5. Decoder
-6. Loss function in Autoencoders
-7. Transform data in PyTorch
-8. Encoder Layer from scratch in PyTorch
-9. Autoencoders as a Generative Model
-10. Generate new data using the Generative Model
 
 ---
 
